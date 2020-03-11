@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section_first {
+  background-color: #e7bfbf;
+}
+
+.section_second {
+  background-color: #bbecb5;
+}
+
+.section_third {
+  background-color: #bbaaff;
+}
+/*# sourceMappingURL=style.css.map */
